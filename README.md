@@ -12,7 +12,7 @@
 # 3. Preserve arrangement as a general starting point
 #### Not sure how this is accomplished yet
 
-# Create branches which are not intended to merged but are intended to individualize and specialize
+# Create branches which are not ultimately intended to merge but to individualize and specialize
 # Spawn new mains from foundation
 # 2. Construct secondary development
 # 3. Preserve state of progress at significant junctures, regression points, access points, etc.
