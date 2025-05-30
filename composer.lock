@@ -1,0 +1,5 @@
+{
+  "lockfile": false,
+  "prefer-dist": true,
+  "minimum-stable-version": "^2.8.9"
+}
