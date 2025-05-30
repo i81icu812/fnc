@@ -17,3 +17,7 @@
 # 2. Construct secondary developments
 # 3. Preserve state of progress at significant junctures, regression points, access points, etc.
 #### Always anticipating and facilitating interface w/ potential child developments
+
+#### At this point, it needs to be roughed in and refined. 
+#### Any/all present parameters and arguments are dummy values. 
+#### Feel free to jump in anywhere.
