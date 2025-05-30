@@ -6,10 +6,10 @@
     <script>
         const scheduleDiv = document.getElementById('schedule');
         const dailySchedule = [
-            { time: '07:00', activity: 'Wake Up' },
-            { time: '07:30', activity: 'Breakfast' },
-            { time: '08:00', activity: 'Morning Walk' },
-            { time: '24:00', activity: 'Midnight' },
+            { time: '07:00', activity: 'Complete file system' },
+            { time: '08:30', activity: 'Determine CI / CD process' },
+            { time: '12:00', activity: 'Work out migration from child branch to indepent main' },
+            // { time: '24:00', activity: 'taskname here' },
         ];
         function displaySchedule() {
             let scheduleHTML = '<h2>Schedule</h2>';
