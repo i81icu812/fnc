@@ -1,6 +1,6 @@
 
 {
-  "name": "example-project",
+  "name": "new-project",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "test": "jest"
   },
   "keywords": [],
-  "author": "Your Name <your.email@example.com>",
+  "author": "Your Name <i81icu812@outlook.com>",
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
